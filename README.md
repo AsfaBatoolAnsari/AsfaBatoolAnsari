@@ -8,7 +8,7 @@
 
 💞️ Open to collaborating on UI/UX design, web development, and exciting digital projects.
 
-📫 Let's connect on [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/asfa-batool-ansari/))
+📫 Let's connect on [LinkedIn]([https://www.linkedin.com/in/asfa-batool-ansari/]())
 
 🛠️ Tools & Skills: Figma, HTML, CSS, Bootstrap, JavaScript, AI Tools
 
